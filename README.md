@@ -374,7 +374,7 @@ const server = http.createServer((req, res) => {
 // Http server listening to port 3000
 server.listen((3000),  ()  =>  {
   console.log("Server is Running");
-)}
+})
 
 // EXPRESS.JS --------------------------------------------
 // Handling GET / request
@@ -388,9 +388,9 @@ app.get("/hello",  (req,  res,  next) => {
 })
 
 // Server setup
-app.listen(3000, () => {
+app.listen(4000, () => {
   console.log("Server is Running")
-})
+})s
 ```
 
 ---
