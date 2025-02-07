@@ -322,7 +322,8 @@ server.listen((3000),  ()  =>  {
 })
 ```
 
-We get the following output after sendign a GET request to the server via the browser (opening localhost at port 3000) -
+We get the following output after sendign a GET request to the server via the browser (opening localhost at port 3000) -  
+  
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20210622002747/44.png)
 
 ##### Creating the Express.js server -
@@ -346,8 +347,10 @@ app.listen(3000, () => {
 })
 ```
 
-We get the following output after sendign a GET request to the server via the browser (opening localhost at port 3000) -
-![image](https://media.geeksforgeeks.org/wp-content/uploads/20210622002617/1.png)
+We get the following output after sendign a GET request to the server via the browser (opening localhost at port 3000) -  
+  
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20210622002617/1.png)  
+  
 Similarly we would get the text "This is the hello message" on accessing `localhost:3000/hello`.
 
 ##### Finally
