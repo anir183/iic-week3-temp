@@ -1,0 +1,25 @@
+{
+  "name": "iic_week3_temp",
+  "version": "1.0.0",
+  "description": "week 3 submission for iic freshsers grooming programme",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anir183/iic-week3-temp.git"
+  },
+  "keywords": [
+    "hoehoe"
+  ],
+  "author": "anir183",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anir183/iic-week3-temp/issues"
+  },
+  "homepage": "https://github.com/anir183/iic-week3-temp#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
